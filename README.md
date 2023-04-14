@@ -73,7 +73,7 @@ Learn from other solutions.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/wheels63)
 
 ## Acknowledgments
 
