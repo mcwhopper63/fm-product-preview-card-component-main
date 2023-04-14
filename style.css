@@ -93,9 +93,9 @@ button {
     background-color: var(--Dark-cyan);
     color: var(--White);
     border-radius: 7px;
-    font-size: 15px;
-    /* height: 30px; */
-    
+    font-size: 1rem;
+    border: 2px solid var(--Dark-cyan);
+    height: 40px;    
 }
 
 .cart {
@@ -106,6 +106,8 @@ button {
 
 
 .attribution {
-    /* position: absolute; */
-    /* text-align: center; */
+    position: absolute;
+    bottom: 0%;
+    text-align: center;
+    /* right: 50%; */
 }
